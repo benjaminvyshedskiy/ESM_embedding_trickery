@@ -1,0 +1,3 @@
+I think we should set up known interactors as amino acid sequence of 
+viral protein and then uniprot ID of human protein, this is because viral
+naming is ridicoulsly inconsistent. We then use jackhmmer to search our dataset for corresponding viral fragments.

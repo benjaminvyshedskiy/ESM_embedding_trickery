@@ -1,0 +1,136 @@
+viral_protein	vorf_fragment_id	evalue	bitscore	query_coverage	target_coverage	organism	annotation	fragment_length	in_screen	kept_in_csv
+MA	P03366.1.1	3.9e-75	249.5	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag-pol	131	True	True
+MA	P04585.1.1	4e-75	249.5	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag-pol	131	True	True
+MA	P04591.0.1	8.8e-74	245.1	1.000	0.356	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag	499	False	False
+MA	P03347.0.1	1e-73	244.9	1.000	0.346	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag	511	True	False
+MA	P03366.0.1	1.2e-73	244.7	1.000	0.310	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag-pol	570	False	False
+MA	P04585.0.1	1.3e-73	244.6	1.000	0.310	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag-pol	570	True	False
+MA	P04594.1.1	6.7e-71	235.8	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag	137	True	True
+MA	P04594.0.1	1.5e-69	231.4	1.000	0.273	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag	504	False	False
+MA	P04588.0.1	1.8e-69	231.2	1.000	0.242	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag-pol	570	False	False
+MA	O89291.1.1	2.1e-69	230.9	0.992	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag	127	False	True
+MA	O89291.0.1	2.9e-68	227.3	0.992	0.270	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag	491	False	False
+MA	O89290.0.1	3.6e-68	226.9	0.992	0.233	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag-pol	570	False	False
+MA	O91079.1.1	1.7e-67	224.8	1.000	1.000	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag	133	True	True
+MA	Q79665.1.1	2.6e-67	224.2	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag	129	False	True
+MA	O91079.0.1	2.7e-66	220.9	1.000	0.338	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag	511	True	False
+MA	O91080.0.1	3.6e-66	220.5	1.000	0.235	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag-pol	570	False	False
+MA	Q79665.0.1	3.7e-66	220.5	1.000	0.351	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag	497	True	False
+MA	Q79666.0.1	5e-66	220.0	1.000	0.305	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag-pol	570	False	False
+MA	Q77372.1.1	8.5e-65	216.0	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	gag	129	True	True
+MA	Q77372.0.1	9.6e-64	212.6	1.000	0.349	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	gag	497	True	False
+MA	P20874.1.1	1e-61	206.1	0.894	0.956	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag	134	True	True
+MA	P20874.0.1	1.9e-60	201.9	0.886	0.246	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag	520	True	False
+MA	P20876.0.1	2e-60	201.9	0.886	0.224	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag-pol	570	True	False
+MA	P18095.1.1	3.1e-59	198.0	0.871	0.948	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag	134	True	True
+MA	Q76633.1.1	1.3e-58	196.0	0.886	0.985	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag	129	True	True
+MA	P18095.0.1	6.1e-58	193.8	0.856	0.244	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag	520	True	False
+MA	P18096.0.1	7.1e-58	193.6	0.848	0.222	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag-pol	570	False	False
+MA	Q76633.0.1	2.7e-57	191.7	0.879	0.248	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag	520	True	False
+MA	Q76634.0.1	3.2e-57	191.5	0.879	0.226	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag-pol	570	True	False
+MA	Q74230.1.1	5.3e-57	190.8	0.871	0.985	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag	129	False	True
+MA	Q74230.0.1	1.2e-55	186.5	0.871	0.249	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag	518	False	False
+MA	Q89928.0.1	1.3e-55	186.3	0.871	0.226	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag-pol	570	False	False
+NC	P04585.3.1	2.9e-33	113.1	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag-pol	55	True	True
+NC	P03366.3.1	4.1e-33	112.6	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag-pol	55	True	True
+NC	O89291.3.1	2.2e-32	110.3	1.000	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag	55	True	True
+NC	P04585.0.1	2.1e-31	107.1	1.000	0.096	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag-pol	570	True	False
+NC	P03366.0.1	2.9e-31	106.7	1.000	0.096	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag-pol	570	False	False
+NC	P04588.3.1	4.2e-31	106.2	1.000	0.982	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag-pol	55	True	True
+NC	P04591.0.1	4.6e-31	106.1	1.000	0.110	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	gag	499	False	False
+NC	P03347.0.1	6.7e-31	105.5	1.000	0.107	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	gag	511	True	False
+NC	O89291.0.1	1.7e-30	104.3	1.000	0.112	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag	491	False	False
+NC	Q77372.3.1	4.5e-30	102.9	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	gag	56	True	True
+NC	Q79665.3.1	7.2e-30	102.2	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag	56	True	True
+NC	O89290.0.1	9.2e-30	101.9	0.982	0.096	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	gag-pol	570	False	False
+NC	O91079.3.1	2.5e-29	100.5	0.982	0.983	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag	57	True	True
+NC	P04594.0.1	3.2e-29	100.2	1.000	0.107	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag	504	False	False
+NC	P04588.0.1	3.8e-29	99.9	1.000	0.095	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	gag-pol	570	False	False
+NC	Q77372.0.1	3.5e-28	96.8	1.000	0.112	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	gag	497	True	False
+NC	Q79666.0.1	5.7e-28	96.2	1.000	0.098	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag-pol	570	False	False
+NC	Q79665.0.1	5.7e-28	96.2	1.000	0.112	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	gag	497	True	False
+NC	P20874.3.1	1.6e-27	94.7	0.873	1.000	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag	49	True	True
+NC	O91079.0.1	2e-27	94.4	0.982	0.111	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag	511	True	False
+NC	P18095.3.1	2.4e-27	94.1	0.873	1.000	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag	49	False	True
+NC	Q76633.3.1	5.1e-27	93.1	0.909	1.000	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag	53	True	True
+NC	Q74230.3.1	1.1e-26	92.1	0.909	1.000	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag	52	True	True
+NC	O91080.0.1	2.1e-26	91.2	0.927	0.098	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	gag-pol	570	False	False
+NC	P20874.0.1	5.7e-26	89.8	0.873	0.100	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag	520	True	False
+NC	P20876.0.1	6.6e-26	89.6	0.873	0.091	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	gag-pol	570	True	False
+NC	P18095.0.1	9.2e-26	89.1	0.873	0.100	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag	520	True	False
+NC	P18096.0.1	1.2e-25	88.8	0.873	0.091	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	gag-pol	570	False	False
+NC	Q76633.0.1	4.8e-25	86.8	0.909	0.104	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag	520	True	False
+NC	Q76634.0.1	5.2e-25	86.7	0.909	0.095	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	gag-pol	570	True	False
+NC	Q74230.0.1	7.2e-25	86.2	0.909	0.104	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag	518	False	False
+NC	Q89928.0.1	7.9e-25	86.1	0.909	0.095	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	gag-pol	570	False	False
+NC	P03346.3.1	1.2e-19	69.5	0.727	0.631	Human T-cell leukemia virus 2 (HTLV-2)	gag	83	False	False
+NC	P03363.3.1	1.8e-19	69.0	0.727	0.546	Human T-cell leukemia virus 2 (HTLV-2)	gag-pro-pol	96	True	False
+NC	Q0R5R4.2.1	7.5e-19	67.0	0.727	0.635	Human T-cell leukemia virus 3 (strain 2026ND) (HTLV-3)	gag	85	False	False
+NC	Q0R5R2.3.1	9.5e-19	66.6	0.727	0.581	Human T-cell leukemia virus 3 (strain 2026ND) (HTLV-3)	gag-pro-pol	93	True	False
+NC	P03346.0.1	1.6e-18	65.9	0.727	0.122	Human T-cell leukemia virus 2 (HTLV-2)	gag	432	True	False
+NC	NP_057860.1.2	2.5e-17	62.1	0.709	0.091	Human T-lymphotropic virus 1	Pr gag-pro-pol [Human T-lymphotropic virus 1].	570	False	False
+NC	NP_057860.1.1	2.5e-17	62.1	0.709	0.091	Human T-lymphotropic virus 1	Pr gag-pro-pol [Human T-lymphotropic virus 1].	570	False	False
+NC	K4EDB3.1	6.7e-17	60.7	0.800	0.123	Trypanosoma cruzi	TCSYLVIO_000443	423	False	False
+Vif	P04599.0.1	1.9e-112	373.0	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	vif	192	True	True
+Vif	P69720.0.1	2.3e-111	369.5	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	vif	192	True	True
+Vif	O70887.0.1	1.6e-110	366.7	1.000	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	vif	192	True	True
+Vif	O91081.0.1	1.7e-107	356.8	1.000	1.000	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	vif	192	True	True
+Vif	Q79667.0.1	1.3e-106	353.9	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	vif	192	True	True
+Vif	Q77374.0.1	1.4e-105	350.6	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	vif	192	True	True
+Vif	Q76635.0.1	2e-76	255.5	0.943	0.889	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	vif	216	False	True
+Vif	P18097.0.1	2.1e-76	255.4	0.948	0.902	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	vif	215	False	True
+Vif	Q89753.0.1	3.1e-75	251.6	0.833	0.880	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	vif	216	True	True
+Vif	P20878.0.1	5e-75	250.9	0.911	0.898	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	vif	215	True	True
+Vpr	O70888.0.1	1.4e-55	184.9	1.000	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	vpr	96	False	True
+Vpr	P69726.0.1	4e-55	183.4	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	vpr	96	False	True
+Vpr	P05955.0.1	1.3e-54	181.8	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	vpr	96	False	True
+Vpr	Q9IDV6.0.1	3.3e-53	177.3	1.000	1.000	Human immunodeficiency virus type 1 group N (isolate YBF106) (HIV-1)	vpr	95	False	True
+Vpr	O91082.0.1	3.5e-53	177.2	1.000	1.000	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	vpr	95	False	True
+Vpr	Q77375.0.1	2e-51	171.6	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	vpr	97	False	True
+Vpr	Q79668.0.1	2.5e-50	168.1	1.000	1.000	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	vpr	100	False	True
+Vpr	Q76637.0.1	3e-42	142.2	0.875	0.901	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	vpr	101	False	True
+Vpr	Q74231.1	1.7e-41	139.7	0.875	0.722	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	vpr	126	True	True
+Vpr	P69725.0.1	3.6e-40	135.5	0.760	0.987	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	vpr	78	False	True
+Vpr	P20884.0.1	2.1e-39	133.1	0.906	0.885	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	vpr	104	False	True
+Vpr	P18100.0.1	3e-38	129.3	0.844	0.943	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	vpr	87	False	True
+Vpr	P18099.0.1	2.5e-23	81.5	0.646	0.867	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	vpx	113	False	True
+Vpr	P20881.0.1	3.9e-21	74.5	0.635	0.839	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	vpx	112	False	True
+Vpr	Q76636.0.1	1.2e-18	66.5	0.656	0.865	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	vpx	111	False	True
+Vpu	P69699.0.1	1.1e-44	149.8	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	vpu	81	False	True
+Vpu	P05919.0.1	3.7e-44	148.1	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	vpu	81	False	True
+Vpu	P05924.0.1	6.4e-42	140.9	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	vpu	80	False	True
+Vpu	O70891.0.1	3.5e-37	125.7	0.963	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	vpu	81	False	True
+Vpu	O91085.0.1	7.8e-29	99.0	0.741	0.928	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	vpu	83	False	True
+Vpu	Q9IDV3.0.1	1.1e-28	98.6	0.778	0.973	Human immunodeficiency virus type 1 group N (isolate YBF106) (HIV-1)	vpu	74	False	True
+Vpu	Q77376.0.1	3.3e-23	81.0	0.864	0.953	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	vpu	85	True	True
+Vpu	Q79669.0.1	6.4e-15	54.4	0.778	0.953	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	vpu	85	True	True
+Tat	P04608.0.1	5e-50	167.3	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	tat	86	False	True
+Tat	P69697.0.1	2e-49	165.4	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	tat	86	True	True
+Tat	O91083.0.1	1.6e-48	162.5	0.988	0.851	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	TAT_HV1YF	101	False	True
+Tat	P04613.0.1	4.2e-48	161.2	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	TAT_HV1MA	87	True	True
+Tat	O70889.0.1	2e-47	159.0	1.000	0.869	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	TAT_HV193	99	False	True
+Tat	Q9IDV5.0.1	7.9e-46	153.9	0.988	0.853	Human immunodeficiency virus type 1 group N (isolate YBF106) (HIV-1)	TAT_HV1YB	102	True	True
+Tat	P0C1K1.0.1	1.7e-36	123.9	0.907	0.974	Human immunodeficiency virus type 1 group O (isolate ANT70) (HIV-1)	TAT_HV1AN	114	False	True
+Tat	P0C1K2.0.1	1e-35	121.5	0.930	0.973	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	TAT_HV1MV	112	True	True
+Tat	P20880.0.1	3.4e-27	94.2	0.791	0.600	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	tat	130	False	True
+Tat	Q76632.0.1	1.2e-24	85.9	0.744	0.883	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	tat	128	False	True
+Tat	Q89745.0.1	5.7e-23	80.6	0.733	0.812	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	tat	138	True	True
+Nef	P03404.0.1	1.2e-122	406.9	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	nef	205	False	True
+Nef	P04601.0.1	2.7e-122	405.7	1.000	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	nef	205	True	True
+Nef	O89293.0.1	1.6e-118	393.4	0.995	1.000	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020) (HIV-1)	nef	207	True	True
+Nef	O91087.0.1	2.3e-112	373.2	1.000	1.000	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	nef	211	False	True
+Nef	P04603.0.1	1.8e-111	370.4	1.000	1.000	Human immunodeficiency virus type 1 group M subtype A (isolate MAL) (HIV-1)	nef	208	False	True
+Nef	Q79671.0.1	6.9e-105	348.8	0.985	1.000	Human immunodeficiency virus type 1 group O (isolate MVP5180) (HIV-1)	nef	210	False	True
+Nef	P18092.0.1	1.3e-78	263.0	0.743	0.735	Human immunodeficiency virus type 2 subtype A (isolate BEN) (HIV-2)	nef	256	True	True
+Nef	Q89868.0.1	2e-77	259.2	0.723	0.912	Human immunodeficiency virus type 2 subtype B (isolate EHO) (HIV-2)	nef	237	False	True
+Nef	Q76639.0.1	8.6e-77	257.1	0.854	0.964	Human immunodeficiency virus type 2 subtype B (isolate UC1) (HIV-2)	nef	224	False	True
+Nef	P20868.0.1	1.4e-76	256.4	0.743	0.647	Human immunodeficiency virus type 2 subtype A (isolate ST) (HIV-2)	nef	254	False	True
+Gp160	P04578.0.1	0	1395.6	0.666	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	env	570	True	True
+Gp160	P03375.0.1	0	1392.0	0.666	1.000	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	env	570	True	True
+Gp160	O91086.0.1	0	1179.8	0.681	1.000	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	env	570	False	True
+Gp120	P04578.0.1	0	1156.5	0.940	0.884	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	env	570	True	True
+Gp120	P03375.0.1	0	1153.9	0.940	0.884	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	env	570	True	True
+Gp120	O91086.0.1	3.5e-292	969.1	0.940	0.862	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	env	570	False	True
+Gp41	O91086.0.1	8.8e-50	169.1	0.246	0.140	Human immunodeficiency virus type 1 group N (isolate YBF30) (HIV-1)	env	570	False	False
+Gp41	P03375.0.1	2.9e-42	144.4	0.206	0.117	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	env	570	True	False
+Gp41	P04578.0.1	2.9e-42	144.4	0.206	0.117	Human immunodeficiency virus type 1 group M subtype B (isolate HXB2) (HIV-1)	env	570	True	False
